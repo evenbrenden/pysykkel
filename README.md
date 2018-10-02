@@ -2,7 +2,7 @@
 Playing around with https://developer.oslobysykkel.no/api.
 
 ## Requirements
-Python 3.4, Requests
+Python>=3.4, Requests
 
 ## Getting started
 ```
