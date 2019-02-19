@@ -1,5 +1,5 @@
 # sykkel
-Playing around with https://developer.oslobysykkel.no/api.
+Show current bike and lock availability on Oslo Bysykkel stations.
 
 ## Requirements
 Python>=3.4, Requests
